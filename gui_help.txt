@@ -1,0 +1,34 @@
+Welcome to our Scrabble game! If you are unfamiliar with the
+rules of Scrabble, we have attached a link to the official
+rules below. The different game buttons explained below
+describe how to perform different actions throughout the game.
+The winner is the player with the highest score at the end of
+the game!
+Scrabble Rules: https://scrabble.hasbro.com/en-us/rules
+
+Buttons:
+- Quit Game: quits the current game.
+
+- Help: displays useful information on how to play the game.
+
+- Hint: provides a potential move that could be made. The word
+  shown could contain letters which are already on the board.
+
+- Show/Hide Rack: displays/hides the letters one has in their
+  rack.
+
+- Place Word: places letters on the board to form valid words.
+  You must first click place, then click a letter in the rack
+  followed by a click on a particular cell of the board, and
+  repeat until placement is done. Finally, click place again
+  to finalize your move.
+
+- Add To Dict: adds a new word to the dictionary of allowed
+   words. Click the button, type the word, then press 'ENTER'.
+
+- Pass Turn: skips the current player's turn.
+
+- Swap Tiles: swaps tiles on one's rack with tiles in the bag.
+  You must first click swap, followed by the letters in your
+  rack you wish to swap, and finally click swap once more to
+  finalize the action.
