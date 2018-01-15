@@ -13,8 +13,6 @@ Dependencies:
 - OCaml Graphics
 
 Installation:
-- If you are running the course-provided Virtual Box disk image, you can stop
-  reading now! It has all necessary dependencies pre-installed.
 - XQuartz : download and run the .dmg installer from https://www.xquartz.org
 - OCaml Graphics
   - type 'ocamlfind query graphics' into your terminal
